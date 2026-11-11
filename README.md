@@ -27,10 +27,6 @@ Instead of manually creating servers and installing software, developers can req
 - Estimate infrastructure costs.
 - Destroy unused environments.
 
-## Project Status
-
-Currently under development.
-
 ## Project Structure
 
 - `frontend/` – React dashboard
