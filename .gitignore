@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+crash.log
+
+# SSH keys and credentials
+*.pem
+*.key
+credentials
+.aws/
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
